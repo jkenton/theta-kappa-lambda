@@ -1,8 +1,5 @@
 title: Theta Kappa Lambda
 email: joeuser@gmail.com
-description: "Pan-Hellenic frarority of diminutive Theta Kappa afficianados.
-
-Created on April 7, 2021"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jkenton.github.io/theta-kappa-lambda/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -21,6 +18,19 @@ plugins:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+exclude:
+  _site
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
