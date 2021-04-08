@@ -4,7 +4,7 @@ baseurl: "https://jkenton.github.io/theta-kappa-lambda" # the subpath of your si
 url: "https://jkenton.github.io/theta-kappa-lambda" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thetakappalambd
 github_username:  jekyll
-description: "The Pan-Hellenic frarority of diminutive Theta Kappa afficianados."
+description: "The Pan-Hellenic frarority of diminutive Theta Kappa afficianados. <br /> &copy; April 2021"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-slate
